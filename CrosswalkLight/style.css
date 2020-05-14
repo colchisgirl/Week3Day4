@@ -1,0 +1,42 @@
+body {
+    background-color: honeydew;
+    width: 30%;
+    margin: 10em auto;
+}
+
+button {
+    
+    color: black;
+    font-size: 20px;
+}
+
+.stop-light-on {
+    background-image: url('img/stop-on.svg');
+    background-size: cover;
+    width: 200px;
+    height: 200px;
+}
+
+.walk-light-on {
+    background-image: url('img/walk-on.svg');
+    background-size: cover;
+    width: 200px;
+    height: 200px;
+}
+
+.walk-light-off {
+    background-image: url('img/walk-off.svg');
+    background-size: cover;
+    width: 200px;
+    height: 200px;
+}
+
+.stop-light-off {
+    background-image: url('img/stop-off.svg');
+    background-size: cover;
+    width: 200px;
+    height: 200px;
+}
+
+
+
