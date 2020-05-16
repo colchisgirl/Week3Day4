@@ -38,5 +38,12 @@ button {
     height: 200px;
 }
 
+.tablo {
+    height: 3em;
+    width: 3em;
+    font-size: 30px;
+    border: 1px solid black;
+}
+
 
 
